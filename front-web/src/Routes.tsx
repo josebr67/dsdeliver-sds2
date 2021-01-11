@@ -11,7 +11,6 @@ function Routes(){
            <Switch>
                 <Route path="/orders">
                     <Orders/>
-
                 </Route>
                 <Route path="/">
                     <Home/>
